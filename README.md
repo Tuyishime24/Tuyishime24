@@ -2,18 +2,24 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Tuyishime%20Chantal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# 👋 Welcome to My GitHub Profile
+# Hi, I'm Tuyishime Chantal 👋
 
-### 🎓 Business Analytics Student | 📊 Aspiring Data Analyst
+### 🎓 Business Analytics Student at Kepler College
+### 📊 Aspiring Data Analyst | Business Intelligence Enthusiast
+
+> *Turning data into insights and insights into better decisions.*
 
 <p>
+
 <a href="https://www.linkedin.com/in/chantal-tuyishime-94229333b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<img src="https://img.shields.io/badge/Kepler%20College-Business%20Analytics-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Kepler%20College-Business%20Analytics-purple?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Location-Rwanda-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Location-Rwanda-green?style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=Tuyishime24&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
@@ -21,19 +27,19 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-Hello! I'm **Tuyishime Chantal**, a **Year 3 Bachelor of Science in Business Analytics student at Kepler College, Rwanda.**
+Hello! I'm **Tuyishime Chantal**, a **Year 3 Bachelor of Science in Business Analytics** student at **Kepler College, Rwanda**.
 
-I am passionate about using data to solve business challenges, discover insights, and support better decision-making.
+I am passionate about transforming data into meaningful insights that support business decision-making. I enjoy solving business problems through analytics, interactive dashboards, and data visualization.
 
-My focus areas include:
+My areas of interest include:
 
-📊 Data Analytics
-📈 Business Intelligence
-📉 Data Visualization
-🤖 Predictive Analytics
-💻 Dashboard Development
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- 📉 Data Visualization
+- 🤖 Predictive Analytics
+- 💻 Dashboard Development
 
 ---
 
@@ -45,7 +51,7 @@ My focus areas include:
 
 Bachelor of Science in Business Analytics
 
-Current Level: **Year 3**
+**Current Status:** Year 3 Student
 
 </details>
 
@@ -53,33 +59,62 @@ Current Level: **Year 3**
 
 <details>
 
-<summary><h2>🛠️ Technical Skills</h2></summary>
+<summary><h2>💼 Career Objective</h2></summary>
 
-### Programming
+I am seeking internship opportunities where I can apply my analytical, technical, and problem-solving skills to real-world business challenges while continuing to grow as a **Business Analyst** and **Data Analyst**.
 
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
+</details>
 
-### Data Analysis
+---
 
-* Python
-* Pandas
-* NumPy
-* Excel
+<details>
 
-### Visualization
+<summary><h2>🛠️ Tech Stack</h2></summary>
 
-* Power BI
-* Tableau
-* Streamlit
-* Plotly
+### 💻 Programming
 
-### Analytics
+<p align="center">
 
-* Business Intelligence
-* Predictive Analytics
-* Forecasting
-* Data Mining
-* Data Warehousing
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
+</p>
+
+### 📊 Data & Analytics
+
+- Python
+- Pandas
+- NumPy
+- SQL (MySQL)
+- Excel
+
+### 📈 Visualization
+
+- Power BI
+- Tableau
+- Streamlit
+- Plotly
+
+### 📚 Analytics Skills
+
+- Business Intelligence
+- Predictive Analytics
+- Forecasting
+- Data Mining
+- Data Warehousing
+
+</details>
+
+---
+
+<details>
+
+<summary><h2>💡 What I Do</h2></summary>
+
+- ✔ Clean and prepare business data
+- ✔ Analyze business datasets
+- ✔ Build interactive dashboards
+- ✔ Create insightful visualizations
+- ✔ Support data-driven decision-making
 
 </details>
 
@@ -89,15 +124,15 @@ Current Level: **Year 3**
 
 <summary><h2>📚 Coursework</h2></summary>
 
-* Python for Business Analytics
-* Predictive Analytics
-* Bayesian Statistics
-* Business Forecasting
-* Database Management
-* Data Visualization
-* Statistics & Probability
-* Business Finance
-* Research Skills
+- Python for Business Analytics
+- Predictive Analytics
+- Bayesian Statistics
+- Business Forecasting
+- Database Management
+- Data Visualization
+- Statistics & Probability
+- Business Finance
+- Research Skills
 
 </details>
 
@@ -105,65 +140,14 @@ Current Level: **Year 3**
 
 # 🚀 Featured Projects
 
-<table>
+| Project | Description | Tools |
+|---------|-------------|-------|
+| 📊 E-Commerce Dashboard | Interactive dashboard analyzing sales trends, customer behavior, and KPIs | Python, Streamlit, Plotly |
+| 📈 Business Analytics Dashboard | Interactive business reporting and data modeling | Power BI |
+| 🗄 SQL Business Analysis | Business data analysis using SQL queries | MySQL |
+| 📉 Data Visualization Projects | Interactive charts and dashboards | Power BI, Tableau, Plotly |
 
-<tr>
-
-<td width="50%">
-
-## 📊 E-Commerce Dashboard
-
-**Tools**
-
-Python • Streamlit • Plotly
-
-Interactive dashboard analyzing:
-
-✔ Sales trends
-✔ Customer behavior
-✔ Business KPIs
-
-</td>
-
-<td width="50%">
-
-## 📈 Business Analytics Dashboard
-
-**Tools**
-
-Power BI • Data Modeling
-
-Provides business insights through interactive reports.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 🗄 SQL Business Analysis
-
-**Tools**
-
-MySQL • SQL
-
-Business data analysis using queries and reporting.
-
-</td>
-
-<td>
-
-## 📊 Visualization Projects
-
-Creating interactive charts and dashboards using modern analytics tools.
-
-</td>
-
-</tr>
-
-</table>
+> 🔗 Repository links and live demos will be added as projects are completed.
 
 ---
 
@@ -171,11 +155,11 @@ Creating interactive charts and dashboards using modern analytics tools.
 
 <summary><h2>🌱 Currently Learning</h2></summary>
 
-* Machine Learning for Business
-* Advanced Analytics
-* Business Intelligence Solutions
-* Data Storytelling
-* Dashboard Development
+- Machine Learning for Business
+- Advanced Analytics
+- Business Intelligence Solutions
+- Data Storytelling
+- Dashboard Development
 
 </details>
 
@@ -183,12 +167,12 @@ Creating interactive charts and dashboards using modern analytics tools.
 
 ## 🎯 Career Interests
 
-Looking for opportunities in:
+I am interested in opportunities as:
 
-📊 Data Analyst
-💼 Business Analyst
-📈 Business Intelligence Analyst
-📉 Data Visualization Specialist
+- 📊 Data Analyst
+- 💼 Business Analyst
+- 📈 Business Intelligence Analyst
+- 📉 Data Visualization Specialist
 
 ---
 
@@ -200,6 +184,14 @@ Looking for opportunities in:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuyishime24&layout=compact&theme=tokyonight"/>
 
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuyishime24&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuyishime24&theme=tokyo-night"/>
+
 </div>
 
 ---
@@ -208,13 +200,13 @@ Looking for opportunities in:
 
 <div align="center">
 
-📧 **Email**
+<a href="mailto:tuyishimec843@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-[tuyishimec843@gmail.com](mailto:tuyishimec843@gmail.com)
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/chantal-tuyishime-94229333b/
+<a href="https://www.linkedin.com/in/chantal-tuyishime-94229333b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </div>
 
@@ -224,11 +216,11 @@ https://www.linkedin.com/in/chantal-tuyishime-94229333b/
 
 ## ✨ Building the Future with Data
 
-I use GitHub to document my analytics journey, build projects,
-and create solutions that transform data into decisions.
+I use GitHub to document my learning journey, showcase analytics projects, and create solutions that transform data into informed business decisions.
 
-⭐ Thanks for visiting my profile!
+⭐ Thank you for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
 
 </div>
+```
