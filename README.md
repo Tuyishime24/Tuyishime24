@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Tuyishime Chantal
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Business%20Analytics%20Student&fontSize=40&fontAlignY=35" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Tuyishime%20Chantal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 ## 🎓 Business Analytics Student | 📊 Aspiring Data Analyst
 
 Welcome to my GitHub profile!
