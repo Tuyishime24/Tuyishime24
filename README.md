@@ -1,168 +1,234 @@
-# 👋 Hi, I'm Tuyishime Chantal
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Tuyishime%20Chantal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-## 🎓 Business Analytics Student | 📊 Aspiring Data Analyst
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Tuyishime%20Chantal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-Welcome to my GitHub profile!
+# 👋 Welcome to My GitHub Profile
 
-I am a **Year 3 Bachelor of Science in Business Analytics student at Kepler College, Rwanda** passionate about transforming data into meaningful business insights.
-
-I enjoy working with data to solve business problems, improve decision-making, and create interactive analytical solutions using modern data tools.
-
----
-
-# 🚀 About Me
-
-* 🎓 Business Analytics Student at **Kepler College**
-* 📊 Interested in **Data Analytics, Business Intelligence & Data Visualization**
-* 🐍 Building projects using **Python, SQL, Power BI, Tableau & Streamlit**
-* 📈 Passionate about turning raw data into actionable insights
-* 🌱 Currently improving my skills in **Machine Learning and Advanced Analytics**
-
----
-
-# 🛠️ Technical Skills
-
-## 💻 Programming & Database
+### 🎓 Business Analytics Student | 📊 Aspiring Data Analyst
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<a href="https://www.linkedin.com/in/chantal-tuyishime-94229333b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<img src="https://img.shields.io/badge/Kepler%20College-Business%20Analytics-purple?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Location-Rwanda-green?style=for-the-badge">
+
 </p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+Hello! I'm **Tuyishime Chantal**, a **Year 3 Bachelor of Science in Business Analytics student at Kepler College, Rwanda.**
+
+I am passionate about using data to solve business challenges, discover insights, and support better decision-making.
+
+My focus areas include:
+
+📊 Data Analytics
+📈 Business Intelligence
+📉 Data Visualization
+🤖 Predictive Analytics
+💻 Dashboard Development
+
+---
+
+<details>
+
+<summary><h2>🎓 Education</h2></summary>
+
+**Kepler College**
+
+Bachelor of Science in Business Analytics
+
+Current Level: **Year 3**
+
+</details>
+
+---
+
+<details>
+
+<summary><h2>🛠️ Technical Skills</h2></summary>
+
+### Programming
+
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+
+### Data Analysis
 
 * Python
-* SQL (MySQL)
-
----
-
-## 📊 Data Analysis & Visualization
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
 * Pandas
 * NumPy
-* Microsoft Excel
-* Plotly
-* Streamlit
+* Excel
+
+### Visualization
+
 * Power BI
 * Tableau
+* Streamlit
+* Plotly
 
----
-
-## 📈 Business Analytics Skills
+### Analytics
 
 * Business Intelligence
-* Data Visualization
 * Predictive Analytics
-* Business Forecasting
+* Forecasting
 * Data Mining
 * Data Warehousing
-* Decision Support Systems
+
+</details>
 
 ---
 
-## 💼 Business Knowledge
+<details>
 
-* Business Finance
-* Accounting
-* Economics
-* Marketing
-* Human Resource Management
-* Entrepreneurship
-* Design Thinking
-
----
-
-# 📚 Selected Coursework
+<summary><h2>📚 Coursework</h2></summary>
 
 * Python for Business Analytics
-* Predictive Analytics for Business
-* Bayesian Statistics for Business
+* Predictive Analytics
+* Bayesian Statistics
 * Business Forecasting
-* Data Warehousing and Mining
-* Database Management & MySQL
-* Data Visualization for Decision Making
-* Statistics and Probability for Business
+* Database Management
+* Data Visualization
+* Statistics & Probability
 * Business Finance
-* Capstone Research Skills
+* Research Skills
+
+</details>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📊 E-Commerce Sales Dashboard
+<table>
 
-**Tools:** Python | Streamlit | Plotly | Pandas
+<tr>
 
-Interactive dashboard analyzing sales performance, customer trends, and business KPIs.
+<td width="50%">
 
----
+## 📊 E-Commerce Dashboard
+
+**Tools**
+
+Python • Streamlit • Plotly
+
+Interactive dashboard analyzing:
+
+✔ Sales trends
+✔ Customer behavior
+✔ Business KPIs
+
+</td>
+
+<td width="50%">
 
 ## 📈 Business Analytics Dashboard
 
-**Tools:** Power BI | Data Modeling | Visualization
+**Tools**
 
-Created dashboards to support data-driven business decisions.
+Power BI • Data Modeling
+
+Provides business insights through interactive reports.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🗄 SQL Business Analysis
+
+**Tools**
+
+MySQL • SQL
+
+Business data analysis using queries and reporting.
+
+</td>
+
+<td>
+
+## 📊 Visualization Projects
+
+Creating interactive charts and dashboards using modern analytics tools.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🗄️ SQL Business Analysis
+<details>
 
-**Tools:** MySQL | SQL Queries
-
-Analyzing business data using database queries and extracting meaningful insights.
-
----
-
-# 🌱 Currently Learning
+<summary><h2>🌱 Currently Learning</h2></summary>
 
 * Machine Learning for Business
-* Advanced Business Analytics
+* Advanced Analytics
 * Business Intelligence Solutions
-* Interactive Dashboard Development
 * Data Storytelling
+* Dashboard Development
+
+</details>
 
 ---
 
-# 🎯 Career Interests
+## 🎯 Career Interests
 
-I am interested in opportunities related to:
+Looking for opportunities in:
 
-* 📊 Data Analyst
-* 💼 Business Analyst
-* 📈 Business Intelligence Analyst
-* 📉 Data Visualization Specialist
-* 🤖 Predictive Analytics
+📊 Data Analyst
+💼 Business Analyst
+📈 Business Intelligence Analyst
+📉 Data Visualization Specialist
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tuyishime24&show_icons=true&theme=tokyonight"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuyishime24&layout=compact&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
 # 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/chantal-tuyishime-94229333b/
+<div align="center">
 
-📧 Email: tuyishimec843@gmail.com
+📧 **Email**
+
+[tuyishimec843@gmail.com](mailto:tuyishimec843@gmail.com)
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/chantal-tuyishime-94229333b/
+
+</div>
 
 ---
 
-# ✨ My Goal
+<div align="center">
 
-I use GitHub as a portfolio to showcase my learning journey, analytics projects, and continuous growth in Business Analytics.
+## ✨ Building the Future with Data
 
-My goal is to build data-driven solutions that help organizations make smarter decisions.
+I use GitHub to document my analytics journey, build projects,
+and create solutions that transform data into decisions.
 
----
+⭐ Thanks for visiting my profile!
 
-⭐ Thank you for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
+
+</div>
