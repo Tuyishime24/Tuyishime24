@@ -152,9 +152,9 @@ I am interested in opportunities related to:
 
 # 📫 Connect With Me
 
-💼 LinkedIn: Add your LinkedIn URL here
+💼 LinkedIn: https://www.linkedin.com/in/chantal-tuyishime-94229333b/
 
-📧 Email: Add your email here
+📧 Email: tuyishimec843@gmail.com
 
 ---
 
