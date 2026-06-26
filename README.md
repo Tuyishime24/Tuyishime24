@@ -5,8 +5,7 @@
 # Hi, I'm Tuyishime Chantal 👋
 
 ### 🎓 Business Analytics Student at Kepler College
-### 📊 Aspiring Data Analyst | Business Intelligence Enthusiast
-
+### 📊Business Analytics Student | Aspiring Data Analyst | Business Intelligence Enthusiast
 > *Turning data into insights and insights into better decisions.*
 
 <p>
